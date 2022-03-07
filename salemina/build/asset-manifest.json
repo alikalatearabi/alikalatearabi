@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.532a35a5.css",
+    "main.js": "/static/js/main.4a281b0e.js",
+    "static/media/saleminaa.apk": "/static/media/saleminaa.41f99bf75ec39c0ca442.apk",
+    "static/media/slider3.png": "/static/media/slider3.01c23464f8f967e1d935.png",
+    "static/media/slider1.png": "/static/media/slider1.b5584e34514701b797ff.png",
+    "static/media/mainImage.gif": "/static/media/mainImage.1e9c7c35441af76eb846.gif",
+    "static/media/slider2.png": "/static/media/slider2.4f095e7812e933385c74.png",
+    "static/media/about-us.png": "/static/media/about-us.53b7c0776233263c87df.png",
+    "static/media/contact-us.png": "/static/media/contact-us.345b019ac9f6eab5621f.png",
+    "static/media/Yekan.ttf": "/static/media/Yekan.f6a0838b6690eaaa2898.ttf",
+    "static/media/bazaar.png": "/static/media/bazaar.da6e0b6fbfa8f18f9b62.png",
+    "static/media/icon2.png": "/static/media/icon2.d94bf118460eac2b7b33.png",
+    "static/media/yekan-regular.eot": "/static/media/yekan-regular.83db29e19e82e7860698.eot",
+    "static/media/icon3.png": "/static/media/icon3.05ae589a33a000bc9059.png",
+    "static/media/table2.png": "/static/media/table2.07c49c822795e73bf9f5.png",
+    "static/media/table1.png": "/static/media/table1.e26ef708d6bd1c476ca5.png",
+    "static/media/sugar.png": "/static/media/sugar.b3d4423607ae9649be8c.png",
+    "static/media/fat.png": "/static/media/fat.e8e33dd945ae1d7005f6.png",
+    "static/media/Yekan.woff": "/static/media/Yekan.18af8c75ab1951a5e56d.woff",
+    "static/media/namak.png": "/static/media/namak.b1ae95a83755ec4844f2.png",
+    "static/media/table3.png": "/static/media/table3.cbf26c105545da213057.png",
+    "static/media/icon1.png": "/static/media/icon1.6c7c005289ac25b70028.png",
+    "index.html": "/index.html",
+    "main.532a35a5.css.map": "/static/css/main.532a35a5.css.map",
+    "main.4a281b0e.js.map": "/static/js/main.4a281b0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.532a35a5.css",
+    "static/js/main.4a281b0e.js"
+  ]
+}
