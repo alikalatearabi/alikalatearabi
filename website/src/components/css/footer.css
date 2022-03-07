@@ -1,0 +1,27 @@
+#footer{
+    display: flex;
+    justify-content: space-around;
+    font-family: yekan;
+    color: rgba(69,69, 69,1);
+    font-size: 14px;
+    direction: rtl;
+    background-color: rgb(230, 230, 230);
+    padding-bottom: 3rem;
+    margin: 15px;
+    width: 96%;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+#footer .footer-section{
+    margin-top: 2rem;
+    width: 33%;
+    text-align: center;
+}
+#footer .footer-section p{
+    width: 90%;
+    margin: auto;
+}
+#footer .footer-section:nth-child(2){
+    display: flex;
+    flex-direction: column;
+}

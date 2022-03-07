@@ -1,0 +1,32 @@
+.Grade-section{
+    direction: rtl;
+    font-family: yekan;
+}
+.Grade-section h1{
+    background-color: #ff8986;
+    padding: 12px;
+    color: rgb(54, 54, 54);
+    text-align: center;
+    width: 95%;
+    border-radius: 20px;
+    margin: 10px auto;
+}
+.Grade-section p{
+    font-size: 19px;
+    background-color: rgb(230, 230, 230);
+    padding: 25px;
+    width: 93%;
+    border-radius: 20px;
+    margin: 10px auto;
+    text-align: justify;
+}
+.Grade-section .table{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.Grade-section img{
+    width: 64% !important;
+}
+
+/* Responsive */

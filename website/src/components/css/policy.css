@@ -1,0 +1,18 @@
+#policy{
+    font-family: yekan;
+    direction: rtl;
+    margin: 2rem 5rem;
+}
+#policy h1{
+    text-align: right;
+    font-size: 25px;
+    color: rgb(255, 82, 94);
+    font-weight: bold;
+}
+#policy h3{
+    font-size: 18px;
+}
+#policy p{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.387);
+    padding: 15px 5px;
+}

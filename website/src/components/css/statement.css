@@ -1,0 +1,90 @@
+.statement-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Statement-section{
+    width: 100%;
+    position: relative;
+    z-index: 20;
+}
+.Statement-section h1{
+    background-color: #ff8986;
+    padding: 12px;
+    color: rgb(54, 54, 54);
+    text-align: center;
+    direction: rtl;
+    font-family: yekan;
+    width: 95%;
+    margin: 1rem auto;
+    border-radius: 20px;
+}
+.Statement-section p{
+    font-size: 22px;
+    /* background-color: rgb(230, 230, 230); */
+    padding: 15px 0 5px 0;
+    font-family: yekan;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Statement-section p::before{
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #ff8986;
+    display: block;
+    margin-right: 10px;
+    transform: translateY(3px);
+}
+.Statement-section p::after{
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #ff8986;
+    display: block;
+    margin-left: 10px;
+    transform: translateY(3px);
+}
+.Statement-section h5{
+    text-align: center;
+    font-family: yekan;
+    font-size: 19px;
+    direction: rtl;
+    margin: 0;
+}
+.statement-wrapper .Statement-section .icon-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 4rem;
+    flex-direction: row-reverse;
+}
+.statement-wrapper .Statement-section .icon-container .icon-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.statement-wrapper .Statement-section .icon-container img{
+    width: 15%;
+}
+.statement-wrapper .Statement-section .icon-container .icon-wrapper p{
+    font-size: 15px;
+    direction: rtl;
+    width: 50%;
+    margin: auto;
+}
+.statement-wrapper .Statement-section .icon-container .icon-wrapper p::after{
+    content: '';
+    width: 0px;
+}
+.statement-wrapper .Statement-section .icon-container .icon-wrapper p::before{
+    content: '';
+    width: 0;
+}

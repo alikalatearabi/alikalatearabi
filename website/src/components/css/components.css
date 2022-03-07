@@ -1,0 +1,93 @@
+/* font */
+@font-face {
+    font-family: yekan;
+    src: url('../../Font/yekan-font/yekan-regular.eot');
+    src: url('../../Font/yekan-font/Yekan.woff') format('woff'),
+         url('../../Font/yekan-font/Yekan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+/* End Font */
+/* General */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f8f0ed;
+    margin: auto;
+}
+body::-webkit-scrollbar{
+    display: none;
+}
+section{
+    text-align: center;
+    direction: rtl;
+}
+section h1{
+    font-family: yekan;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+section p{
+    font-family: yekan;
+    font-size: 18px;
+}
+h1,h2,p{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+}
+/* End General */
+
+.feature-card-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 5rem;
+    width: 100%;
+}
+#feature .section-title{
+    margin: 1rem 0rem 2rem 0rem;
+}
+.feature-card-wrapper .feature-card{
+    width: 25%;
+    margin-bottom: 2.5rem;
+}
+.feature-card-wrapper .feature-card img{
+    width: 4rem;
+    margin-bottom: .5rem;
+}
+.feature-card-wrapper .feature-card p{
+    width: 75%;
+    margin: auto;
+    font-size: 15px;
+}
+/* Compare Section */
+#compare{
+    margin-bottom: 5rem;
+}
+#compare .compare-sub-title{
+    width: 80%;
+    margin: auto;
+}
+#compare img{
+    width: 80%;
+    border-radius: 20px;
+    margin-top: 2rem;
+    box-shadow: 0px 0px 5px rgb(211, 211, 211);
+    transition: all linear .1s;
+}
+#compare img:hover{
+    box-shadow: 0px 0px 9px rgb(211, 211, 211);
+}
+/* End Compare Section */
+/* End Home Page */
