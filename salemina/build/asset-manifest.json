@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.532a35a5.css",
-    "main.js": "/static/js/main.4a281b0e.js",
+    "main.css": "/static/css/main.6008342b.css",
+    "main.js": "/static/js/main.a4a1ac10.js",
     "static/media/saleminaa.apk": "/static/media/saleminaa.41f99bf75ec39c0ca442.apk",
     "static/media/slider3.png": "/static/media/slider3.01c23464f8f967e1d935.png",
     "static/media/slider1.png": "/static/media/slider1.b5584e34514701b797ff.png",
@@ -23,11 +23,11 @@
     "static/media/table3.png": "/static/media/table3.cbf26c105545da213057.png",
     "static/media/icon1.png": "/static/media/icon1.6c7c005289ac25b70028.png",
     "index.html": "/index.html",
-    "main.532a35a5.css.map": "/static/css/main.532a35a5.css.map",
-    "main.4a281b0e.js.map": "/static/js/main.4a281b0e.js.map"
+    "main.6008342b.css.map": "/static/css/main.6008342b.css.map",
+    "main.a4a1ac10.js.map": "/static/js/main.a4a1ac10.js.map"
   },
   "entrypoints": [
-    "static/css/main.532a35a5.css",
-    "static/js/main.4a281b0e.js"
+    "static/css/main.6008342b.css",
+    "static/js/main.a4a1ac10.js"
   ]
 }

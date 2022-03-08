@@ -50,10 +50,6 @@
 .homepage-top-wrapper .download-button-wrapper a{
     width: fit-content;
 }
-.homepage-top-wrapper .download-button-wrapper:first-child{
-    pointer-events: none;
-    opacity: 50%;
-}
 .homepage-top-wrapper .download-button-wrapper:last-child{
     justify-content: space-between;
     align-items: center;

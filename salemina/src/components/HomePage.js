@@ -47,7 +47,7 @@ class HomePage extends Component {
                         <p>سالمینا دستیار خرید شماست تا برای سلامتی خود، آگاهانه انتخاب کنید</p>
                         <div className='download-button-container'>
                             <div className="download-button-wrapper">
-                                <a href=""><img src={bazarLogo} alt="bazaarLogo" /></a>
+                                <a href="https://cafebazaar.ir/app/com.smartx.saleminaa"><img src={bazarLogo} alt="bazaarLogo" /></a>
                             </div>
                             <div className="download-button-wrapper">
                                 <a href="https://myket.ir/app/com.smartx.saleminaa"><img src={myketLogo} alt="bazaarLogo" /></a>
